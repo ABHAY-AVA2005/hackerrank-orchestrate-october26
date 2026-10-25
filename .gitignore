@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+scratch/
+dataset/sample_output_generated.csv
+
+# Environment / secrets — never commit
+.env
+.env.*
+*.env
+env.local
